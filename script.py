@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 
 import sys
-"""
-This gives the total number of arguments
+"""This gives the total number of arguments
+Args:
+    len (int): len
 """
 # Total number of arguments
 print('Total arguments:', len(sys.argv))
